@@ -1,0 +1,86 @@
+# Question ---> 1
+# Output
+
+Move disc 1 from source A to destination B
+Move disc 2 from source A to destination C
+Move disc 1 from source B to destination C
+Move disc 3 from source A to destination B
+Move disc 1 from source C to destination A
+Move disc 2 from source C to destination B
+Move disc 1 from source A to destination B
+
+
+# Question ---> 2
+# Output
+
+# Case --> 1 (Iteration)
+Enter the number : 5
+      1 
+     1 1 
+    1 2 1 
+   1 3 3 1 
+  1 4 6 4 1 
+
+# Case --> 2 (Recursion)
+      1 
+     1 1 
+    1 2 1 
+   1 3 3 1 
+  1 4 6 4 1
+
+
+# Question ---> 3
+# Output
+
+# Part (a)
+Enter first number : 3
+Enter second number : 2
+Checking if the quotient and remainder value is a callable value or not :
+False
+False
+
+# Part (b)
+Yes, all the values are non zeros
+
+# Part (c)
+Filtered numbers that are greater than 4 are : [5, 5, 6, 6, 7, 7]
+
+# Part (d)
+The resulting set is : {5, 6, 7}
+
+# Part (e)
+The formed immutable set is : frozenset({5, 6, 7})
+
+# Part (f)
+The maximum value of the above set is : 7
+The hash value of the maximum value of the above set is : 7
+
+
+# Question ---> 4
+# Output
+
+The object is created
+The details of the student are :
+Rajat 21103062
+The object is destroyed
+
+
+# Question ---> 5
+# Output
+
+# Part (a)
+The updated salary of Mehak is 70000
+
+# Part (b)
+The record of Viren is deleted
+
+
+# Question ---> 6
+# Output
+
+Enter a word :
+Bob Marley
+Enter a meaningful word from the exact same letters :
+Marble Boy
+Does the word makes any sense ? (y/Y or n/N) : Y
+Congratulations! Barbie and George, you passed the friendship test
